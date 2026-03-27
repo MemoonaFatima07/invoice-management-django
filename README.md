@@ -13,7 +13,7 @@ Relational Database: Optimized database schema for handling complex relationship
 🛠️ Tech Stack
 Backend: Python 3.x / Django
 
-Database: SQLite (Development) / PostgreSQL (Production)
+Database: MySQL (Relational Database Management)
 
 Frontend: Django Templates with Tailwind CSS
 
